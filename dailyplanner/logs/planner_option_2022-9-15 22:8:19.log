@@ -1,0 +1,29 @@
+[INFO] Planner command loaded
+[WARN] This function may be dangerous to this app's system
+[WARN] It may causes serious error, even fatal error that can causes crash
+[INFO] If you know how dangerous it is and you need to use it:
+[INFO] Please entry at the bottom of this frame
+[INFO] If you finished, press 'Enter' to run
+[DEBUG] adv_option>_yee
+[INFO] ░░░░░░░░░░░▄███▄▄▄░░░░░░░░
+[INFO] ░░░░░░░▄▄▄██▀▀▀▀███▄░░░░░░
+[INFO] ░░░░░▄▀▀░░░░░░░░░░░▀█░░░░░
+[INFO] ░░▄▄▀░░░░░░░░░░░░░░░▀█░░░░
+[INFO] ░░█░░░░░▀▄░░▄▀░░░░░░░░█░░░
+[INFO] ░░▐██▄░░▀▄▀▀▄▀░░▄██▀░▐▌░░░
+[INFO] ░░█▀█░▀░░░▀▀░░░▀░█▀░░▐▌░░░
+[INFO] ░░█░░▀▐░░░░░░░░▌▀░░░░░█░░░
+[INFO] ░█░░░░░░░░░░░░░░░░░░░█░░░░
+[INFO] ░░█░░▀▄░░░░▄▀░░░░░░░░█░░░░
+[INFO] ░░█░░░░░░░░░░░▄▄░░░░█░░░░░
+[INFO] ░░░█▀██▀▀▀▀██▀░░░░░░█░░░░░
+[INFO] ░░░█░░▀████▀░░░░░░░█░░░░░░
+[INFO] ░░░░█░░░░░░░░░░░░▄█░░░░░░░
+[INFO] ░░░░░██░░░░░█▄▄▀▀░█░░░░░░░
+[INFO] ░░░░░░▀▀█▀▀▀▀░░░░░░█░░░░░░
+[INFO] ░░░░░░░█░░░░░░░░░░░░█░░░░░
+[INFO] yee~
+[DEBUG] adv_option>_raise true yee
+[FATAL] DebugError:RAISED FATAL "yee"
+[DEBUG] adv_option>_raise false yee
+[ERROR] DebugError:RAISED ERROR "yee"
